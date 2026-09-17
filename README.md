@@ -2,7 +2,11 @@
 
 # 👋 Hi, I'm Rudi Aristanto
 
-### Full Stack Developer | Laravel & Filament Developer
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Laravel+Developer;Filament+Developer;Building+Digital+Solutions+with+Awantech" alt="Typing SVG" />
+  </a>
+</p>
 
 💻 Building modern web applications & information systems  
 🚀 Laravel • Filament • Livewire • MySQL  
