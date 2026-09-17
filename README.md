@@ -31,10 +31,12 @@ information systems and digital solutions.
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,tailwind,js,git,github,vscode" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,tailwind,js,git,github,vscode" />
-
+<p align="center">
+  <b>PHP • Laravel • Filament • Livewire • MySQL • Tailwind CSS • JavaScript • Git</b>
 </p>
 
 ---
