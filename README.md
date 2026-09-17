@@ -43,12 +43,27 @@ information systems and digital solutions.
 
 ## 🚀 Featured Projects
 
-### 📚 DIGILIB STKIP
+### 📚 [DIGILIB STKIP](https://github.com/RudiAristanto/digilibstkip)
 
-Digital Library Management System for managing academic
-documents, authors, categories, downloads, and digital collections.
+**Digital Library Management System — STKIP PGRI Ponorogo**
 
-**Tech Stack:** Laravel 12 • Filament • Livewire • MySQL
+A web-based digital library system for managing academic documents,
+authors, categories, study programs, downloads, and digital collections.
+
+**Key Features:**
+- 📄 Digital document management
+- 👨‍🎓 Author & student management
+- 🗂️ Categories & study programs
+- 📥 PDF document upload & download
+- 🔍 Search & document discovery
+- 📊 Document statistics
+- 🔐 Role-based access management
+
+**Built with:**
+
+`Laravel 12` • `Filament` • `Livewire` • `MySQL` • `Tailwind CSS`
+
+➡️ **[View Repository](https://github.com/RudiAristanto/digilibstkip)**
 
 ---
 
